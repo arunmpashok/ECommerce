@@ -1,7 +1,7 @@
 Installation
 ----------------------------
 Clone the Repo:
-1. git clone https://github.com/Arunmp2021/StudentManagement.git
+1. git clone https://github.com/arunmpashok/ECommerce.git
 2. cd ecommerce
 3. composer install
 4. cp .env.example .env
